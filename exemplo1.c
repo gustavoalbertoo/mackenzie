@@ -9,6 +9,6 @@ int main () {
 	printf("Algoritmos e Prog. II\n");
 	printf("Prog. II\n");
 	printf("Turma - 02P\n");
-
+	printf("FCI - criada em 1970\n");
 	return 0;
 }
