@@ -5,11 +5,10 @@
 
 int main () {
 	printf("Mackenzie - FCI\n");
+	printf("Ciencia da computacao\n");
 	printf("Algoritmos e Prog. II\n");
 	printf("Prog. II\n");
 	printf("Turma - 02P\n");
 
-	
-	system("pause");
 	return 0;
 }
